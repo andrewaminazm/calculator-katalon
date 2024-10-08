@@ -34,5 +34,5 @@ Follow these steps to set up the project on your local machine:
 
 2. **Clone this repository**:
    ```bash
-   git clone https://github.com/yourusername/katalon-mobile-automation.git
-   cd katalon-mobile-automation
+   git clone https://github.com/andrewaminazm/calculator-katalon.git
+  
